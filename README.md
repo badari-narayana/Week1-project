@@ -40,6 +40,7 @@ It will tell to the user that "You can access me at any time if want any informa
 ............
 # Here are some performane pictures of our ChatBot
 pic 1 having bot inro and asking name  
+![pic1](https://user-images.githubusercontent.com/72606000/96372899-cc8cc700-1186-11eb-90b4-9bf7f1a9e162.jpg)
 pic2 having greets to user and list of courses  
 pic3 having course num entered by user and list of classes info  
 pic4 having class number entered by user and session link  
