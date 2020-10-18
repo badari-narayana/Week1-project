@@ -38,3 +38,8 @@ ChatBot will give the link of the recorded session for the class which was selec
 It will tell to the user that "You can access me at any time if want any information".
 # Block Diagram 
 ............
+# Here are some performane pictures of our ChatBot
+pic 1 having bot inro and asking name
+pic2 having greets to user and list of courses
+pic3 having course num entered by user and list of classes info
+pic4 having class number entered by user and session link
